@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning: Java, PHP, HTML, mySQL, git, Arduino, Data Structures & Algorithms 
 
-🤔 I’m looking for help with Growth of functions & Complexity analisis 
