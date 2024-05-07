@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning: Java, PHP, HTML, mySQL, git, Arduino, Data Structures & Algorithms 
+🌱 Recent UWW Graduate with a Bachelors in Computer Science as of 5/24!
 
