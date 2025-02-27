@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 Recent UWW Graduate with a Bachelors in Computer Science as of 5/24!
+Currently employed as a Systems Administrator @ Kikkoman since 8/24.
 
